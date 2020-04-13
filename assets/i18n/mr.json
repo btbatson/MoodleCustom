@@ -1,0 +1,71 @@
+{
+  "DASHBOARD": "डॅशबोर्ड",
+  "MY_COURSES": "माझे अभ्यासक्रम",
+  "MY_PROFILE": "माझे प्रोफाइल",
+  "ABOUT_APP": "अॅप बद्दल",
+  "FAQS": "सामान्य प्रश्न",
+  "CONTACT_US": "आमच्याशी संपर्क साधा",
+
+
+  "FORGOT_PASSWORD": "संकेतशब्द विसरलात",
+  "VIEW_PROFILE": "प्रोफाइल पहा",
+
+
+
+  "LESS_DETAILS": "कमी माहितीसाठी",
+  "MORE_DETAILS": "अधिक माहितीसाठी",
+
+  "CONTINUE": "सुरू",
+  "COMPLETED": "पूर्ण झाले",
+  "MARK_AS_COMPLETE": "पूर्ण झाले",
+  "ASSIGNMENTS": "असाइनमेंट",
+  "UPLOAD": "अपलोड करा",
+  "ABOUT_ME":"माझ्याबद्दल",
+  "BACK_TO_INTRODUCTION":"परिचय वर परत",
+  "BACK_TO_LESSON":"पाठ वर परत या",
+
+  "LOGOUT": "बाहेर पडणे",
+
+  "NAME": "नाव",
+  "EMAIL": "ईमेल",
+  "WEBSITE": "वेबसाइट",
+  "USERNAME": "वापरकर्तानाव",
+  "PASSWORD": "पासवर्ड",
+  "LOGIN": "साइन इन करा",
+  "LOGIN_BUTTON": "साइन इन करा",
+  "MENU": "मेनू",
+
+  "EDIT_PROFILE": "प्रोफाईल संपादित करा",
+  "FIRST_NAME": "नाव",
+  "LAST_NAME": "आडनाव",
+  "NICK_NAME": "टोपणनाव",
+  "DISPLAY_NAME": "प्रदर्शन नाव",
+  "CONTACT_INFO": "संपर्क माहिती",
+  "ABOUT_MYSELF": "माझ्याविषयी",
+  "ACCOUNT_MANAGEMENT": "खाते व्यवस्थापन",
+  "CANCEL": "रद्द करा",
+  "SAVE": "जतन करा",
+  "NEW_PASS": "नवीन पासवर्ड टाइप करा",
+  "EDIT_PROFILE_NOTE": "टीप: वापरकर्तानाव बदलले जाऊ शकत नाही",
+  "CHANGE_PIC_NOTE": "आपण आपले प्रोफाइल चित्र यात बदलू शकता",
+
+  "RESUME_COURSE": "अभ्यासक्रम पुन्हा सुरु करा",
+  "START_COURSE": "अभ्यासक्रम सुरू करा",
+  "PROGRESS": "प्रगती",
+  "DAYS_REMAINING": "दिवस राहिले",
+  "TOPICS": "विषय",
+  "PREV_TOPIC": "मागील विषय",
+  "NEXT_TOPIC": "पुढील विषय",
+  "LESSONS": "धडे",
+  "PREV_LESSON": "मागील धडा",
+  "NEXT_LESSON": "पुढील धडा",
+  "UPLOAD_ASSIGN": "अपलोड नेमणूक",
+  "LIST_OF_LESSONS":"पाठांची यादी",
+  "LIST_OF_TOPICS":"विषय सूची",
+  "AUTHOR": "लेखक",
+  "END_DATE": "शेवटची तारीख",
+  "ALL": "सर्व",
+  "ACTIVE": "सक्रिय",
+  "YTS": "अद्याप सुरू करण्यासाठी"
+
+}
